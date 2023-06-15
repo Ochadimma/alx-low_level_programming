@@ -1,7 +1,7 @@
 #include<stdio.h>
 /**
- * main - Entry point
- * return:0 (success)
+ * main - A proogram that prints a line with puts function
+ * return: 0 (success)
  */
 int main(void)
 {
