@@ -1,0 +1,1 @@
+c-pointer,string,array
